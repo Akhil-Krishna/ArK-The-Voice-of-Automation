@@ -1,0 +1,6 @@
+pyautogui
+pillow
+SpeechRecognition
+pyaudio
+pyttsx3
+groq
